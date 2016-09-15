@@ -1,0 +1,48 @@
+body {
+	background-color: lightgrey;
+}
+
+h1 {
+	color: #1a66ff;
+	margin: 20px;
+}
+
+table {
+}
+
+td, tr, th {
+	border: 1px solid blue;
+	border-spacing: .5rem;
+	background-color: white;
+}
+
+.phong {
+	max-width: 15rem;
+	margin: 25px;
+
+}
+
+td img{
+	padding: 30px 15px 30px 15px;
+	width: 95%;
+}
+
+td ul content {
+	font-style: italic;
+}
+
+.thirdKol {
+	vertical-align: top;
+}
+
+.reg {
+	margin-left: 25px;
+}
+
+.nurb {
+	margin: 1.5rem;
+}
+
+footer {
+	text-align: center;
+}
