@@ -27,7 +27,7 @@ td img{
 	width: 95%;
 }
 
-td ul content {
+td > ul > li{
 	font-style: italic;
 }
 
